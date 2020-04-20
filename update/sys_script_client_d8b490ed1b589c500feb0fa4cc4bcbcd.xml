@@ -14,8 +14,8 @@
 
     changeButtonColor('rdb', 'red', 'white');
     changeButtonColor('rdb_bottom', 'red', 'white');
-	changeButtonColor('blb', 'blue', 'white');
-    changeButtonColor('blb_bottom', 'blue', 'white');
+	changeButtonColor('blb', 'green', 'white');
+    changeButtonColor('blb_bottom', 'green', 'white');
 
 
 }
@@ -34,7 +34,7 @@ function changeButtonColor(buttonID, backgroundColor, buttonTextColor) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d8b490ed1b589c500feb0fa4cc4bcbcd</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Form button color</sys_name>
         <sys_overrides/>
         <sys_package display_value="Internal POC" source="x_14768_internal_p">705218691b589c500feb0fa4cc4bcb06</sys_package>
@@ -42,7 +42,7 @@ function changeButtonColor(buttonID, backgroundColor, buttonTextColor) {
         <sys_scope display_value="Internal POC">705218691b589c500feb0fa4cc4bcb06</sys_scope>
         <sys_update_name>sys_script_client_d8b490ed1b589c500feb0fa4cc4bcbcd</sys_update_name>
         <sys_updated_by>RLE0776</sys_updated_by>
-        <sys_updated_on>2020-04-20 14:55:48</sys_updated_on>
+        <sys_updated_on>2020-04-20 17:29:01</sys_updated_on>
         <table>incident</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
